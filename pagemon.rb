@@ -1,8 +1,8 @@
 class Pagemon < Formula
   desc "A tool to monitor web pages for changes"
   homepage "https://github.com/binarynoir/pagemon"
-  url "https://github.com/binarynoir/pagemon/archive/v1.0.1.tar.gz"
-  sha256 "818b23c20b9baff9372b7afbdaefad46708b18a5f5f20f3d43d7129841c30568"
+  url "https://github.com/binarynoir/pagemon/archive/v1.0.2.tar.gz"
+  sha256 "84023078d6403efead79e98cf0fd16a9a931f821d95b20677523462ab8e01a98"
   
   depends_on "jq" => :optional
   depends_on "md5sha1sum"
